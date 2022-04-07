@@ -1,0 +1,2 @@
+# getting-started-with-the-react-signature-component
+A quick-start project that shows how to create and configure the Syncfusion React Signature component. This project contains code snippet for changing the background color, stroke color, velocity, minimum and maximum stroke width, and apply a background image to the signature component. It also shows how to save the signature as an image and clear the signature in the pad.
