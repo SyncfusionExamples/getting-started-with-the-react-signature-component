@@ -28,7 +28,6 @@ It supports to load a pre drawn signature to component either as base 64 or URL.
 
 [Save the signature](https://ej2.syncfusion.com/react/documentation/signature/open-save/#save-signature?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples) as an image with formats like PNG, JPEG, and SVG.
 
-
 ## Related links
 [Learn More about React Signature](https://www.syncfusion.com/react-ui-components/react-signature?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples)
 
@@ -50,7 +49,7 @@ It supports to load a pre drawn signature to component either as base 64 or URL.
 
 
 ## About Syncfusion React UI Components
-Syncfusion's React UI Components library is the only suite that you will ever need to build an application since it contains over 65 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Signature, we provide popular React Components such as [DataGrid](https://www.syncfusion.com/angular-ui-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), [Charts](https://www.syncfusion.com/angular-ui-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), [Scheduler](https://www.syncfusion.com/angular-ui-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), [Diagram](https://www.syncfusion.com/angular-ui-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), and [Word Processor](https://www.syncfusion.com/angular-ui-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=reautm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples-signature-github-samples).
+Syncfusion's React UI Components library is the only suite that you will ever need to build an application since it contains over 65 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Signature, we provide popular React Components such as [DataGrid](https://www.syncfusion.com/angular-ui-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), [Charts](https://www.syncfusion.com/angular-ui-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), [Scheduler](https://www.syncfusion.com/angular-ui-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), [Diagram](https://www.syncfusion.com/angular-ui-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), and [Word Processor](https://www.syncfusion.com/angular-ui-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples).
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 27,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
