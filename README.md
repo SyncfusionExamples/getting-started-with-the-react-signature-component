@@ -32,7 +32,7 @@ It supports to load a pre drawn signature to component either as base 64 or URL.
 ## Related links
 [Learn More about React Signature](https://www.syncfusion.com/react-components/react-signature?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/react?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples)
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples)
 
