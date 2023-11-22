@@ -42,9 +42,9 @@ It supports to load a pre drawn signature to component either as base 64 or URL.
 
 [Community Forums](https://www.syncfusion.com/forums/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples)
 
-[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples)
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/react?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples)
 
-[Online example](https://ej2.syncfusion.com/react/demos/#/material/signature/default?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples)
+[Online example](https://ej2.syncfusion.com/react/demos/#/bootstrap5/signature/default?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples)
 
 ## About Syncfusion React UI Components
 Syncfusion's React UI Components library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Signature, we provide popular React Components such as [DataGrid](https://www.syncfusion.com/react-components/react-grid?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), [Charts](https://www.syncfusion.com/react-components/react-charts?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), [Scheduler](https://www.syncfusion.com/react-components/react-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), [Diagram](https://www.syncfusion.com/react-components/react-diagram?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples), and [Word Processor](https://www.syncfusion.com/react-components/react-word-processor?utm_source=github&utm_medium=listing&utm_campaign=react-signature-github-samples).
